@@ -1,0 +1,2 @@
+drop database EmployeeDepartmentContext;
+drop table Departments
